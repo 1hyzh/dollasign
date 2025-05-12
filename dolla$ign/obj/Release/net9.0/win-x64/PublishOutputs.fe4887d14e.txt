@@ -1,0 +1,2 @@
+C:\Users\hyzh\source\repos\dolla$ign\dolla$ign\bin\Release\net9.0\publish\win-x64\dolla$ign.pdb
+C:\Users\hyzh\source\repos\dolla$ign\dolla$ign\bin\Release\net9.0\publish\win-x64\dolla$ign.exe

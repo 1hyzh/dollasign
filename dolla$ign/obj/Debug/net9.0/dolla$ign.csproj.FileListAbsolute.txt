@@ -1,0 +1,14 @@
+C:\Users\hyzh\source\repos\dolla$ign\dolla$ign\bin\Debug\net9.0\dolla$ign.exe
+C:\Users\hyzh\source\repos\dolla$ign\dolla$ign\bin\Debug\net9.0\dolla$ign.deps.json
+C:\Users\hyzh\source\repos\dolla$ign\dolla$ign\bin\Debug\net9.0\dolla$ign.runtimeconfig.json
+C:\Users\hyzh\source\repos\dolla$ign\dolla$ign\bin\Debug\net9.0\dolla$ign.dll
+C:\Users\hyzh\source\repos\dolla$ign\dolla$ign\bin\Debug\net9.0\dolla$ign.pdb
+C:\Users\hyzh\source\repos\dolla$ign\dolla$ign\obj\Debug\net9.0\dolla$ign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hyzh\source\repos\dolla$ign\dolla$ign\obj\Debug\net9.0\dolla$ign.AssemblyInfoInputs.cache
+C:\Users\hyzh\source\repos\dolla$ign\dolla$ign\obj\Debug\net9.0\dolla$ign.AssemblyInfo.cs
+C:\Users\hyzh\source\repos\dolla$ign\dolla$ign\obj\Debug\net9.0\dolla$ign.csproj.CoreCompileInputs.cache
+C:\Users\hyzh\source\repos\dolla$ign\dolla$ign\obj\Debug\net9.0\dolla$ign.dll
+C:\Users\hyzh\source\repos\dolla$ign\dolla$ign\obj\Debug\net9.0\refint\dolla$ign.dll
+C:\Users\hyzh\source\repos\dolla$ign\dolla$ign\obj\Debug\net9.0\dolla$ign.pdb
+C:\Users\hyzh\source\repos\dolla$ign\dolla$ign\obj\Debug\net9.0\dolla$ign.genruntimeconfig.cache
+C:\Users\hyzh\source\repos\dolla$ign\dolla$ign\obj\Debug\net9.0\ref\dolla$ign.dll
