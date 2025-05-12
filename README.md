@@ -1,4 +1,4 @@
-# dollasign
+# dolla$ign
 a tool to test your antivirus
 
 # how to use:
